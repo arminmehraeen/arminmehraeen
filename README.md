@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Armin Mehraeen</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> , I'm Armin Mehraeen</h1>
 <h3 align="center">A mobile developer from Iran</h3>
 
 # 💫 About Me:
@@ -25,5 +25,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-<img width="100%" align="right" alt="Github" src="https://github.com/arminmehraeen/arminmehraeen/blob/main/bg.png" />
+<img align="right" alt="Github" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
  
