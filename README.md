@@ -1,3 +1,3 @@
-[![Banner](./cover.png)](https://github.com/arminmehraeen)
+[![Banner](./cover_2.png)](https://github.com/arminmehraeen)
 
 
