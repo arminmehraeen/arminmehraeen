@@ -1,18 +1,4 @@
-<!-- [![Banner](./cover.png)](https://github.com/arminmehraeen) -->
-
-# Welcome to My GitHub Profile! 🐍
-
-```
-    ╔════════════════════════════════════════════════════════════════════════════╗
-    ║                                                                            ║
-    ║  🐍                                                                        ║
-    ║                                                                            ║
-    ║  A R M I N   M E H R A E I N                                              ║
-    ║                                                                            ║
-    ║  Full Stack Developer | Mobile Expert | IoT & AI Specialist                ║
-    ║                                                                            ║
-    ╚════════════════════════════════════════════════════════════════════════════╝
-```
+[![Banner](./cover.png)](https://github.com/arminmehraeen)
 
 ## About Me 👋
 
@@ -59,8 +45,6 @@ I specialize in creating robust, scalable applications with a particular emphasi
 
 Feel free to reach out to me for collaborations or opportunities!
 
----
 
-⭐️ From [Armin Mehraein](https://github.com/arminmehraeen)
 
 
