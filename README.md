@@ -7,17 +7,11 @@ I'm Armin Mehraein, a Full Stack Developer with a strong focus on mobile and web
 ## Skills & Expertise 🛠️
 
 ### Mobile Development 📱
-- Flutter (Cross-platform mobile development)
-- Kotlin (Native Android development)
+- Flutter (Cross-platform mobile development) | Kotlin (Native Android development)
 
 ### Web Development 🌐
-- Backend:
-  - Laravel
-  - Django
-  - Flask
-- Frontend:
-  - React
-  - Vue.js
+- Backend: Laravel | Django | Flask
+- Frontend: React | Vue.js
 
 ### IoT & AI 🤖
 - IoT Platform Development
