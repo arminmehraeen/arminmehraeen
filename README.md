@@ -1,4 +1,4 @@
-[![Banner](./Cinematic Full Stack Engineer Workspace.png)](https://github.com/arminmehraeen)
+[![Banner](./pic.png)](https://github.com/arminmehraeen)
 
 ## About Me 👋
 
