@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Banner](./pic.png)](https://github.com/arminmehraeen)
+
 # Armin Mehraein
 
 **Full-Stack Developer · Mobile · Backend · AI**
