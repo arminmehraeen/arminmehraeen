@@ -1,44 +1,44 @@
-[![Banner](./pic.png)](https://github.com/arminmehraeen)
+<div align="center">
 
-## About Me 👋
+# Armin Mehraein
 
-I'm Armin Mehraein, a Full Stack Developer with a strong focus on mobile and web development. My expertise spans across multiple technologies and domains, making me a versatile developer capable of handling complex projects from end to end.
+**Full-Stack Developer · Mobile · Backend · AI**
 
-## Skills & Expertise 🛠️
+I build clean, scalable products across mobile, web, backend systems, and AI-powered applications.
 
-### Mobile Development 📱
-- Flutter (Cross-platform mobile development) | Kotlin (Native Android development)
+[GitHub](https://github.com/arminmehraeen) · [Repositories](https://github.com/arminmehraeen?tab=repositories)
 
-### Web Development 🌐
-- Backend: Laravel | Django | Flask
-- Frontend: React | Vue.js
+</div>
 
-### IoT & AI 🤖
-- IoT Platform Development
-- Artificial Intelligence Implementation
-- Smart Device Integration
-- AI-powered Solutions
+---
 
-### Full Stack Capabilities 💻
-- End-to-end application development
-- System architecture design
-- Database management
-- API development and integration
-- Cloud services implementation
+### What I build
 
-## Professional Focus 🎯
+- **Mobile** — Flutter, Android, Kotlin
+- **Backend** — Laravel, Django, Flask, FastAPI
+- **Web** — React, Vue, modern APIs
+- **AI & IoT** — AI-powered tools, automation, smart-device integrations
 
-I specialize in creating robust, scalable applications with a particular emphasis on:
-- Mobile-first development
-- Cross-platform solutions
-- IoT integration
-- AI implementation
-- Modern web applications
+### Current focus
 
-## Contact 📫
+Building production-ready applications with a focus on **simple architecture, reliable systems, and thoughtful user experiences**.
 
-Feel free to reach out to me for collaborations or opportunities!
+### Selected work
 
+- [Flutter-Clean-Architecture](https://github.com/arminmehraeen/Flutter-Clean-Architecture) — Clean architecture patterns for Flutter
+- [Flutter-Bluetooth](https://github.com/arminmehraeen/Flutter-Bluetooth) — Bluetooth integration with Flutter
+- [Eigenface](https://github.com/arminmehraeen/Eigenface) — Computer vision and face recognition research
+- [Genetic-Algorithm](https://github.com/arminmehraeen/Genetic-Algorithm) — Genetic algorithm experiments
+- [Movies](https://github.com/arminmehraeen/Movies) — Movie-related development and automation
 
+### Stack
 
+`Flutter` · `Dart` · `Python` · `PHP` · `Laravel` · `FastAPI` · `Django` · `React` · `Vue` · `MySQL` · `Docker` · `Git`
 
+---
+
+<div align="center">
+
+**Build simple. Ship useful. Keep improving.**
+
+</div>
